@@ -97,4 +97,10 @@ public class MainActivity extends AppCompatActivity {
     private static Scope buildScope() {
         return Scope.build(Scope.R_BASICPROFILE, Scope.R_EMAILADDRESS);
     }
+
+    /*thid is test method */
+    private void add(){
+        int a,b,c;
+        System.out.println("hi ......");
+    }
 }
